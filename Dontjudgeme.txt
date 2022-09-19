@@ -1,0 +1,2 @@
+Hi, I'm veeeeeeeeeeeeeeery new to React Native and since I love solving Sudokus I thought of coding one. 
+Expect nothing (pls) I'm trying thx :)
